@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bo",
+    "message": "Good",
+    "time": "9:53 AM",
+    "footerIcons": []
+  },
+  {
+    "name": "Ellen",
+    "message": "I sent Ellen a picture of what to check and he is ok.",
+    "time": "Yesterday",
+    "footerIcons": ["image"]
+  },
+  {
+    "name": "Nathanael",
+    "message": "Cool",
+    "time": "Yesterday",
+    "footerIcons": ["file", "video"]
+  },
+  {
+    "name": "Bo",
+    "message": "Good",
+    "time": "Monday",
+    "footerIcons": ["paper", "chat"]
+  },
+  {
+    "name": "Ellen",
+    "message": "I sent Ellen a picture of what to check and he is ok.",
+    "time": "10:43 PM",
+    "footerIcons": ["image", "video", "file"]
+  },
+  {
+    "name": "Nathanael",
+    "message": "Cool",
+    "time": "Yesterday",
+    "footerIcons": ["chat"]
+  },
+  {
+    "name": "Bo",
+    "message": "Good",
+    "time": "Tuesday",
+    "footerIcons": ["image"]
+  },
+  {
+    "name": "Ellen",
+    "message": "I sent Ellen a picture of what to check and he is ok.",
+    "time": "Yesterday",
+    "footerIcons": ["video"]
+  },
+  {
+    "name": "Nathanael",
+    "message": "Cool",
+    "time": "Yesterday",
+    "footerIcons": ["file"]
+  },
+  {
+    "name": "Bo",
+    "message": "Good",
+    "time": "Tuesday",
+    "footerIcons": ["paper"]
+  },
+  {
+    "name": "Ellen",
+    "message": "I sent Ellen a picture of what to check and he is ok.",
+    "time": "Yesterday",
+    "footerIcons": ["chat"]
+  },
+  {
+    "name": "Nathanael",
+    "message": "Cool",
+    "time": "Yesterday",
+    "footerIcons": ["image", "video", "file", "paper", "chat"]
+  }
+]
